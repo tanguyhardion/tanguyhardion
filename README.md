@@ -1,4 +1,4 @@
-# 🚀 About Me:
+# 🚀 About me:
 I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
 <br>🔭 Studying Data Science, Statistical Analysis, Machine Learning and Deep Learning at [UTC](https://utc.fr) <br>👨‍💼 Looking for my final year internship in AI <br>⚡ Working on my [portfolio](https://tanguyhardion.github.io)
 
