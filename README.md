@@ -21,7 +21,7 @@ I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
 ![Extract, Transform, Load (ETL)](https://img.shields.io/badge/ETL-%23F37626.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABbElEQVQ4jZ2Sv0vDUBiGn)
 ![Pentaho Kettle](https://img.shields.io/badge/Pentaho%20Kettle-135fa0.svg?style=for-the-badge&logo=Pentaho&logoColor=white)
 
-## Langages de Programmation
+## Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,7 +33,7 @@ I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Développement Web
+## Web Development
 
 ### Front-end
 
@@ -53,7 +53,7 @@ I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23101010.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-## Bases de Données
+## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,14 +61,14 @@ I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Frameworks & Bibliothèques
+## Frameworks & Libraries
 
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
-## DevOps & Outils
+## DevOps & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -80,12 +80,12 @@ I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-101010?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## Outils de Design
+## Design Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%232297d4.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Gestion de Projet
+## Project Management
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23101010.svg?style=for-the-badge&logo=notion&logoColor=white)
