@@ -1,6 +1,6 @@
 # 🚀 About me
 I'm Tanguy, a 5th-year computer engineering student. Currently, I am:
-<br>👨‍💼 Interning in AI and Data Science at [Deloitte](httpq://www.deloitte.lu/) <br>🔭 Specializing in Data Science, Statistical Analysis, Machine Learning and Deep Learning at [UTC](https://utc.fr/) <br>☕ Enjoying a coffee
+<br>👨‍💼 Interning in AI and Data Science at [Deloitte](https://www.deloitte.lu/) <br>🔭 Specializing in Data Science, Statistical Analysis, Machine Learning and Deep Learning at [UTC](https://utc.fr/) <br>☕ Enjoying a coffee
 
 # 💻 Tech Stack
 
