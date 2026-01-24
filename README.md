@@ -3,7 +3,7 @@ I'm Tanguy, a junior AI & Data Analyst. Currently, I am:
 <br>👨‍💼 Being a consultant in AI & Data at [Deloitte](https://www.deloitte.lu/) <br>🔭 Making pretty slides <br>☕ Enjoying a coffee
 
 # 💻 Technical Skills
-[link](https://rb.gy/pjv85i)
+
 ## Generative & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-%231d3c3e.svg?style=for-the-badge&logo=LangChain&logoColor=white)
