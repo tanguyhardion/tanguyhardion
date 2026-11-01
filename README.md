@@ -1,5 +1,5 @@
 # 🚀 About me
-I'm Tanguy, a junior AI & Data Analyst. Currently, I am:
+I am:
 <br>👨‍💼 Being a consultant in AI & Data at [Deloitte](https://www.deloitte.lu/) <br>🔭 Making pretty slides <br>☕ Enjoying a coffee
 
 # 🌐 Socials
